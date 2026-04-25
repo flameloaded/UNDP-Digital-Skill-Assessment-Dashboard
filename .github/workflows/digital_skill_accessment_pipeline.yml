@@ -37,7 +37,7 @@ jobs:
           MOODLE_TOKEN: ${{ secrets.MOODLE_TOKEN }}
         run: |
           echo "Starting Moodle quiz pipeline..."
-          python -u lms_pipeline.py
+          python -u digital_skills_assessment_pipeline.py
           echo "Pipeline finished."
 
       - name: Commit updated dataset
