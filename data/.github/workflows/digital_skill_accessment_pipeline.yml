@@ -1,0 +1,56 @@
+name: Update Moodle Quiz Dataset
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-moodle-quiz-dataset
+  cancel-in-progress: true
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run data pipeline
+        env:
+          MOODLE_BASE_URL: ${{ secrets.MOODLE_BASE_URL }}
+          MOODLE_TOKEN: ${{ secrets.MOODLE_TOKEN }}
+        run: |
+          echo "Starting Moodle quiz pipeline..."
+          python -u lms_pipeline.py
+          echo "Pipeline finished."
+
+      - name: Commit updated dataset
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add data/final_results.csv data/final_results_backup.csv
+
+          if git diff --cached --quiet; then
+            echo "No dataset changes to commit"
+          else
+            git commit -m "Auto-update Moodle quiz dataset"
+            git pull --rebase origin main
+            git push origin main
+          fi
