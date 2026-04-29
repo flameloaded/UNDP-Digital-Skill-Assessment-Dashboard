@@ -4,59 +4,64 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,19952,Abba  Haladu,abbausmanhaladu@gmail.com,abbausmanhaladu@gmail.com,,4.0,10,,40.0,True,Failed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13050,Abba  Suleiman,abbasuleimanesq@gmail.com,abbasuleimanesq@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4592,Abba  Zakariya,zakariyaabba0@gmail.com,zakariyaabba0@gmail.com,,8.0,10,,80.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,931,Abba Babashehu,aspkori@gmail.com,aspkori@gmail.com,,6.0,10,,60.0,True,Passed
+28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,931,Abba Babashehu,aspkori@gmail.com,aspkori@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10674,Abbas  Garba,garbaabbas384@gmail.com,garbaabbas384@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3234,Abbas Aliyu,amaliyu75@gmail.com,amaliyu75@gmail.com,,8.0,10,,80.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,12104,Abbas Ladan,abbasmusaladan39@gmail.com,abbasmusaladan39@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,8919,Abbati Abdullahi,abbatiabdullahimisau12@gmail.com,abbatiabdullahimisau12@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,812,Abbo Umar,rukieabbo@gmail.com,rukieabbo@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,15369,Abdu Muntaka,muntakashehuabdu@gmail.com,muntakashehuabdu@gmail.com,,5.0,10,,50.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1460,Abdulalim Abubakar,abdulalimshehuabubakar@gmail.com,abdulalimshehuabubakar@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,54928,Abdulaziz Muhammad,maabdulaziz7th@gmail.com,maabdulaziz7th@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,20787,Abdulbasid  Bashir,abdulbasid.bashir2@gmail.com,abdulbasid.bashir2@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,36687,Abdulgaffar  Hamman,abdulgaffarhammanyakubu@gmail.com,abdulgaffarhammanyakubu@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9250,Abdulganiu  Muhammad,rahinamuhammada@gmail.com,rahinamuhammada@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1081,Abdulhafeez Tanko,tankoabdulhafeez@gmail.com,tankoabdulhafeez@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,47766,Abdulhamid  Muhammad,abdulhamidabdullahi087@gmail.com,abdulhamidabdullahi087@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9276,Abdulhamid Musa,elhameedmusa@gmail.com,elhameedmusa@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,48200,Abdulkadir  Ahmad,farukabdulqadirahmad@gmail.com,farukabdulqadirahmad@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,2543,Abdulkadir Adamu,abdulkadiradamu209@gmail.com,abdulkadiradamu209@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,50483,Abdulkadir Garba,abdulkadirgarba4@gmail.com,abdulkadirgarba4@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4121,Abdullahi  Abubakar,abdullahiahmadabubakar100@gmail.com,abdullahiahmadabubakar100@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,59140,Abdullahi  Ahmadu,abdullahiahmad207@gmail.com,abdullahiahmad207@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,2615,Abdullahi  Aliyu,aaalkali01@gmail.com,aaalkali01@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,2615,Abdullahi  Aliyu,aaalkali01@gmail.com,aaalkali01@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,6943,Abdullahi  Anas,abdullahimohammadanas@gmail.com,abdullahimohammadanas@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,18649,Abdullahi  Dalha,dalhaabdullahi58@gmail.com,dalhaabdullahi58@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,16506,Abdullahi  Itas,abdullahiibrahimitas190@gmail.com,abdullahiibrahimitas190@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,2608,Abdullahi  Muhammad,abdullahimuhammad3317@gmail.com,abdullahimuhammad3317@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,34367,Abdullahi  Rufai,rufaiagbaje@gmail.com,rufaiagbaje@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,50710,Abdullahi  Saleh,harunaabdullahi466@gmail.com,harunaabdullahi466@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,50710,Abdullahi  Saleh,harunaabdullahi466@gmail.com,harunaabdullahi466@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,34154,Abdullahi  Sulaiman,abdullahisanisulaiman09@gmail.com,abdullahisanisulaiman09@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14241,Abdullahi  Umar,talk2abdull903@gmail.com,talk2abdull903@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,32789,Abdullahi  Yahaya,abdullahiahmadyahaya72@gmail.com,abdullahiahmadyahaya72@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,11706,Abdullahi Abdullahi,aaalhaji1204@gmail.com,aaalhaji1204@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13263,Abdullahi Auwal,aaabdu1.ug@atbu.edu.ng,aaabdu1.ug@atbu.edu.ng,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,58757,Abdullahi Ibrahim,musaabdullahi4858@gmail.com,musaabdullahi4858@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,13562,Abdullahi Jaudo,abdullahimohammedjaudo@gmail.com,abdullahimohammedjaudo@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4773,Abdullahi Lawan,abdullahimusalawan63@gmail.com,abdullahimusalawan63@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13796,Abdullahi Shittu,abdullahdaya01@gmail.com,abdullahdaya01@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,4078,Abdullahi Shu'Aibu,abdullahishuaibuyahaya03@gmail.com,abdullahishuaibuyahaya03@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4078,Abdullahi Shu'Aibu,abdullahishuaibuyahaya03@gmail.com,abdullahishuaibuyahaya03@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,34585,Abdulmajid  Inuwa,inuwaabdul07@gmail.com,inuwaabdul07@gmail.com,,8.0,10,,80.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,50801,Abdulmalik Sani,msaniabdulmalik@gmail.com,msaniabdulmalik@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,50801,Abdulmalik Sani,msaniabdulmalik@gmail.com,msaniabdulmalik@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,48773,Abdulmumini Aminu,aabdulmumeen2@gmail.com,aabdulmumeen2@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,24163,Abdulqudus Abdulganeey,adetechinternational@gmail.com,adetechinternational@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,7991,Abdulrafiu  Barka,abdulsbarka62@gmail.com,abdulsbarka62@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,5633,Abdulrahman Adamu,abdulrahmanadamu4530@gmail.com,abdulrahmanadamu4530@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7991,Abdulrafiu  Barka,abdulsbarka62@gmail.com,abdulsbarka62@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,5633,Abdulrahman Adamu,abdulrahmanadamu4530@gmail.com,abdulrahmanadamu4530@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,54260,Abdulrahman Aliyu,halliruhannatu5@gmail.com,halliruhannatu5@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,52964,Abdulrahman Bello,abdulrahmanbello645@gmail.com,abdulrahmanbello645@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,1584,Abdulrahman Muhammad,mubarracka@gmail.com,mubarracka@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,56985,Abdulrazak  Bilkisu,bilkisubanye2002@gmail.com,bilkisubanye2002@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9831,Abdulsalam  Alkali,abdulsalamyusufalkali71@gmail.com,abdulsalamyusufalkali71@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9831,Abdulsalam  Alkali,abdulsalamyusufalkali71@gmail.com,abdulsalamyusufalkali71@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,8107,Abdulsalam  Muhammad,abdulsalamm406@gmail.com,abdulsalamm406@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,47932,Abdulsalam Muhammad,hussainiabdulsalam11@gmail.com,hussainiabdulsalam11@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,9016,Abdulwahab  Nasir,abdulwahabnasir138@gmail.com,abdulwahabnasir138@gmail.com,,6.0,10,,60.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,48873,Abdulwahab  Uba,abdulwahabyahayauba@gmail.com,abdulwahabyahayauba@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,9016,Abdulwahab  Nasir,abdulwahabnasir138@gmail.com,abdulwahabnasir138@gmail.com,,6.0,10,,60.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,48873,Abdulwahab  Uba,abdulwahabyahayauba@gmail.com,abdulwahabyahayauba@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,44225,Abdulwahab Abubakar,abdoollgiwa@gmail.com,abdoollgiwa@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,11622,Abdulwahab Babagana,abdulbbgahmad@gmail.com,abdulbbgahmad@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13301,Abdurrahman  Isah,abdurrahmanisa.hm@gmail.com,abdurrahmanisa.hm@gmail.com,,2.0,10,,20.0,True,Failed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,34626,Abdurrahman  Muhammad,abdurrahmanmuhammad898@gmail.com,abdurrahmanmuhammad898@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12727,Abdurrahman Abubakar,abdurrahmanabubakars03@gmail.com,abdurrahmanabubakars03@gmail.com,,8.0,10,,80.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,36226,Abdurrahman Saadu,abdurrahmansbawa93@gmail.com,abdurrahmansbawa93@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,12727,Abdurrahman Abubakar,abdurrahmanabubakars03@gmail.com,abdurrahmanabubakars03@gmail.com,,8.0,10,,80.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,36226,Abdurrahman Saadu,abdurrahmansbawa93@gmail.com,abdurrahmansbawa93@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,16173,Abdurrazzaq Umar,abdurrazzaqumar3775@gmail.com,abdurrazzaqumar3775@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,3353,Abdussalam Yakubu,ayagero2020@gmail.com,ayagero2020@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,27670,Abibat  Braimah,preciousb543@gmail.com,preciousb543@gmail.com,,,10,,,False,Not Attempted
@@ -74,6 +79,7 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,33900,Abubakar  Hassan,abubakarsadeeq298@gmail.com,abubakarsadeeq298@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10563,Abubakar  Ibrahim,ibrahimgtabbakarsadiq@gmail.com,ibrahimgtabbakarsadiq@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,53877,Abubakar  Ismail,abubakarziraismail@gmail.com,abubakarziraismail@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,14688,Abubakar  Mijinyawa,k9belel@gmail.com,k9belel@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,49754,Abubakar  Mohammad,ashrafabubakarmohammad@gmail.com,ashrafabubakarmohammad@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,15225,Abubakar  Mubashshira,abubakarmubashshiraufedo@gmail.com,abubakarmubashshiraufedo@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12261,Abubakar  Musa,abumus30@gmail.com,abumus30@gmail.com,,,10,,,False,Not Attempted
@@ -85,28 +91,30 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1629,Abubakar Adamu,adamu2429@gmail.com,adamu2429@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,8942,Abubakar Adamu,abubakarsasey016@gmail.com,abubakarsasey016@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,33958,Abubakar Ashiru,aashiru3@gmail.com,aashiru3@gmail.com,,7.0,10,,70.0,True,Passed
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,10369,Abubakar Bashir,tarfasadiq@gmail.com,tarfasadiq@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,10369,Abubakar Bashir,tarfasadiq@gmail.com,tarfasadiq@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,5915,Abubakar Garba,abubakaridigarba@gmail.com,abubakaridigarba@gmail.com,,9.0,10,,90.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,15157,Abubakar Haruna,abubakarharunambk@gmail.com,abubakarharunambk@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14074,Abubakar Garba,abubakaradamu165@gmail.com,abubakaradamu165@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,15157,Abubakar Haruna,abubakarharunambk@gmail.com,abubakarharunambk@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4320,Abubakar Hassan,abugarba114@gmail.com,abugarba114@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12825,Abubakar Manu,abubakarmanugaladima@gmail.com,abubakarmanugaladima@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,5705,Abubakar Mohammed,ambappah2@gmail.com,ambappah2@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5705,Abubakar Mohammed,ambappah2@gmail.com,ambappah2@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,31778,Abubakar Musa,abubakadahir458@gmail.com,abubakadahir458@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,2793,Abubakar Sulaiman,abubakarharunasulaiman2018@gmail.com,abubakarharunasulaiman2018@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,2793,Abubakar Sulaiman,abubakarharunasulaiman2018@gmail.com,abubakarharunasulaiman2018@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,58145,Abubakar Usman,abkbajoga9@gmail.com,abkbajoga9@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,43951,Abubakri  Ogunbode,ogunbodeabubakri@gmail.com,ogunbodeabubakri@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,10276,Achaku  Terzungwe,achakuterzungwes@gmail.com,achakuterzungwes@gmail.com,,3.0,10,,30.0,True,Failed
-28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,34518,Adam Kaigama,hammankaigamaadam@gmail.com,hammankaigamaadam@gmail.com,,5.0,10,,50.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,34518,Adam Kaigama,hammankaigamaadam@gmail.com,hammankaigamaadam@gmail.com,,5.0,10,,50.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4418,Adams  Maidawa,maidawajunior@gmail.com,maidawajunior@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,23535,Adamu  Abdulkadir,ameerabdulkadir00006@gmail.com,ameerabdulkadir00006@gmail.com,,4.0,10,,40.0,True,Failed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,47390,Adamu  Babale,adamuisababale@gmail.com,adamuisababale@gmail.com,,4.0,10,,40.0,True,Failed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,11095,Adamu  Ezekiel,bumba0002@gmail.com,bumba0002@gmail.com,,0.0,10,,0.0,True,Failed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4030,Adamu  Ibrahim,adamuibrahimbby@gmail.com,adamuibrahimbby@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,44922,Adamu  Inusa,adamuyusufinusa@gmail.com,adamuyusufinusa@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,749,Adamu  Muhammad,adammuhd124@gmail.com,adammuhd124@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14585,Adamu  Saleh,adamusalehg@gmail.com,adamusalehg@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,14585,Adamu  Saleh,adamusalehg@gmail.com,adamusalehg@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7832,Adamu  Titong,titongsulaiman@gmail.com,titongsulaiman@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,43217,Adamu  Yakubu,adamuyakubu7171@gmail.com,adamuyakubu7171@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,15079,Adamu Abdulhamid,adamuabdulhamid2019@gmail.com,adamuabdulhamid2019@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,15079,Adamu Abdulhamid,adamuabdulhamid2019@gmail.com,adamuabdulhamid2019@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,62138,Adamu Abdullahi,adamaadam1204@gmail.com,adamaadam1204@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,50830,Adamu Ahmad,salimyakubu335@gmail.com,salimyakubu335@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,8804,Adamu Ali,adamualiusman442@gmail.com,adamualiusman442@gmail.com,,10.0,10,,100.0,True,Passed
@@ -117,19 +125,20 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,50839,Adamu Saleh,adamusalehbuzuri@gmail.com,adamusalehbuzuri@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,48619,Adamu Yau,adamukumo9099@gmail.com,adamukumo9099@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,49194,Adatinaa Richard,adatinaarichard@gmail.com,adatinaarichard@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,43853,Adefolarinwa Gade,adefolarinwagade@gmail.com,adefolarinwagade@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,43853,Adefolarinwa Gade,adefolarinwagade@gmail.com,adefolarinwagade@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,31325,Adeola Awujoola,awujoolarokibat@gmail.com,awujoolarokibat@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,47446,Adetutu Adewale,adewaleadetutu623@gmail.com,adewaleadetutu623@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13256,Adonijah  Zakari,adonijahzakari@gmail.com,adonijahzakari@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,56840,Agabison  Adi,agabiagape1love@gmail.com,agabiagape1love@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,56840,Agabison  Adi,agabiagape1love@gmail.com,agabiagape1love@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,52815,Ahmad  Abubakar,ahmadabk6@gmail.com,ahmadabk6@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,51181,Ahmad  Bello,abdams071@gmail.com,abdams071@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,48488,Ahmad  Hassan,abbahassan575@gmail.com,abbahassan575@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,34851,Ahmad Ahmad,ahmadabdullahiahmad53@gmail.com,ahmadabdullahiahmad53@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,49741,Ahmad Likita,ahmadlikita14@gmail.com,ahmadlikita14@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,49741,Ahmad Likita,ahmadlikita14@gmail.com,ahmadlikita14@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3029,Ahmad Muhammad,ahmadmk13115@gmail.com,ahmadmk13115@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,43027,Ahmad Usaini,usainia534@gmail.com,usainia534@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,39762,Ahmed  Aliyu,ahmedbastose@gmail.com,ahmedbastose@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,44224,Ahmad Yakubu,salimkumo@gmail.com,salimkumo@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,39762,Ahmed  Aliyu,ahmedbastose@gmail.com,ahmedbastose@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12791,Ahmed  Jafar,ahmedjafarnejo@gmail.com,ahmedjafarnejo@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,36724,Ahmed  Khalifa,ahmedibrahimkhalifa2017@gmail.com,ahmedibrahimkhalifa2017@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3059,Ahmed  Muhammed,hmbappah@gmail.com,hmbappah@gmail.com,,6.0,10,,60.0,True,Passed
@@ -138,11 +147,11 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,52956,Ahmed Aliy,96ahmedaliy@gmail.com,96ahmedaliy@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,40018,Ahmed Bature,marwanbature070@gmail.com,marwanbature070@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4577,Ahmed Ishaku,amadjibrin1998@gmail.com,amadjibrin1998@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,56642,Ahmed Salihu,mormoniahmed35@gmail.com,mormoniahmed35@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,56642,Ahmed Salihu,mormoniahmed35@gmail.com,mormoniahmed35@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,41904,Aisha  Idris,hassanaidris31@gmail.com,hassanaidris31@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,33678,Aisha  Maina,aishamaina2017@gmail.com,aishamaina2017@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,35628,Aisha  Sabo,naanaysha@gmail.com,naanaysha@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,50445,Aisha  Yapati,ummyta54@gmail.com,ummyta54@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,50445,Aisha  Yapati,ummyta54@gmail.com,ummyta54@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12568,Aisha Abubakar,koloabubakaraisha@gmail.com,koloabubakaraisha@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,11877,Aisha Adam,aishababaadam36@gmail.com,aishababaadam36@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,19578,Aisha Bamidele,aishahyofunola@gmail.com,aishahyofunola@gmail.com,,,10,,,False,Not Attempted
@@ -154,34 +163,38 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13142,Aisha Samaila,fagoaisha@gmail.com,fagoaisha@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,25926,Aishat  Umar,aishannaumar@gmail.com,aishannaumar@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,49208,Aishatu  Agogo,aishatusani22@gmail.com,aishatusani22@gmail.com,,8.0,10,,80.0,True,Passed
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,7071,Aishatu  Ali,aishatualibalami@gmail.com,aishatualibalami@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7071,Aishatu  Ali,aishatualibalami@gmail.com,aishatualibalami@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,50175,Aishatu  Ishiyaku,ayshatisaeed77@gmail.com,ayshatisaeed77@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,33133,Aishatu  Jirgi,aishatujirgiaudu2@gmail.com,aishatujirgiaudu2@gmail.com,,7.0,10,,70.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,53903,Aishatu Abubakar,hajiyaaysha1st@gmail.com,hajiyaaysha1st@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,41834,Aishatu Abubakar,aishatupindiga@gmail.com,aishatupindiga@gmail.com,,8.0,10,,80.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,52748,Aishatu Adamu,abujafarmyusuf@gmail.com,abujafarmyusuf@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,11610,Aishatu Bello,aishatubelloeli@gmail.com,aishatubelloeli@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,17060,Akpomiemie Omologe,akposmart17@gmail.com,akposmart17@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,35453,Alabi Akinkunmi,akinalabi26@gmail.com,akinalabi26@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14555,Alhassan  Abdullahi,alhassanabdullahi6406@gmail.com,alhassanabdullahi6406@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,59090,Alhassan Akawu,alhssanakawu@gmail.com,alhssanakawu@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,14555,Alhassan  Abdullahi,alhassanabdullahi6406@gmail.com,alhassanabdullahi6406@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,59090,Alhassan Akawu,alhssanakawu@gmail.com,alhssanakawu@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,46858,Alhassan Goge,aadamgoge@gmail.com,aadamgoge@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,2719,Alhassan Ibrahim,alhassanmusa99@gmail.com,alhassanmusa99@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,15326,Alheri  Ayuba,alheridurkwa@gmail.com,alheridurkwa@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,48924,Ali Adamu,aliadamumohammed920@gmail.com,aliadamumohammed920@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,11297,Ali Baba,babaalihassan3173@gmail.com,babaalihassan3173@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,11297,Ali Baba,babaalihassan3173@gmail.com,babaalihassan3173@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,494,Ali Buhari,muhammedbuhariali05@gmail.com,muhammedbuhariali05@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9319,Ali Mustapha,alimallammustapha3@gmail.com,alimallammustapha3@gmail.com,,7.0,10,,70.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,11906,Ali Saad,alihaladusa@gmail.com,alihaladusa@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,11906,Ali Saad,alihaladusa@gmail.com,alihaladusa@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12937,Alimi Salman,ayosalman7@gmail.com,ayosalman7@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12067,Aliyah Usman,usmanaliyah2019@gmail.com,usmanaliyah2019@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,56280,Aliyu  Adamu,masteralley3@gmail.com,masteralley3@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,9783,Aliyu  Ali,aliyukwajaffa006@gmail.com,aliyukwajaffa006@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,39768,Aliyu  Nuru,aliyunuru0t@gmail.com,aliyunuru0t@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,45662,Aliyu Abdulqadir,aliyuazare1@gmail.com,aliyuazare1@gmail.com,,8.0,10,,80.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,13427,Aliyu Aliyu,aliyuelectronics@gmail.com,aliyuelectronics@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,13427,Aliyu Aliyu,aliyuelectronics@gmail.com,aliyuelectronics@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,11522,Aliyu Baffa,itzbaffa001@gmail.com,itzbaffa001@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,41793,Aliyu Bukar,bukaraliyu1439@gmail.com,bukaraliyu1439@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14103,Aliyu Idriss,aliyuidriss2016@gmail.com,aliyuidriss2016@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,50210,Aliyu Modu,aliyumuhammadmodu@gmail.com,aliyumuhammadmodu@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,11273,Aliyu Saidu,aliyuahmedsaidu6@gmail.com,aliyuahmedsaidu6@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,11273,Aliyu Saidu,aliyuahmedsaidu6@gmail.com,aliyuahmedsaidu6@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,53920,Aliyu Salihu,aliyusalihu442@gmail.com,aliyusalihu442@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,6787,Alkali  Abubakar,binawata005@gmail.com,binawata005@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,57306,Alkasim  Yushau,alkasimtsiga111@gmail.com,alkasimtsiga111@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,57076,Almustapha  Jamil,csc181794@students.umyu.edu.ng,csc181794@students.umyu.edu.ng,,,10,,,False,Not Attempted
@@ -198,7 +211,7 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,41502,Aminu Dodo,aminusalihudodo50@gmail.com,aminusalihudodo50@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,36448,Amrat Bashir,bashiramrat@gmail.com,bashiramrat@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,51835,Anas  Yahaya,anasyahayamuhammadsumaye@gmail.com,anasyahayamuhammadsumaye@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,49939,Anas Shehu,sardauna.eth@gmail.com,sardauna.eth@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,49939,Anas Shehu,sardauna.eth@gmail.com,sardauna.eth@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,22051,Anas Suleiman,anassuleiman38@gmail.com,anassuleiman38@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7735,Aniekan  Jacob,aniekanjasam@gmail.com,aniekanjasam@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,18191,Anigbogu  Perpetual,akenechukwu5@gmail.com,akenechukwu5@gmail.com,,,10,,,False,Not Attempted
@@ -220,29 +233,29 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,20532,Avolueme Isaac,avoluemeogheneroisaac@gmail.com,avoluemeogheneroisaac@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10327,Ayanfeoluwa Igbaroola,igbaroolaayanfe2019@gmail.com,igbaroolaayanfe2019@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,6300,Ayo Seyi,ayodeleoluwaseyifunmi7@gmail.com,ayodeleoluwaseyifunmi7@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,8023,Azeema  Sanda,axeeymatusanda1586@gmail.com,axeeymatusanda1586@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,8023,Azeema  Sanda,axeeymatusanda1586@gmail.com,axeeymatusanda1586@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,818,Azeezat Ogundele,ogundeleazeezat2018@gmail.com,ogundeleazeezat2018@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,40370,Babagana  Shehu,mshehubabagana@gmail.com,mshehubabagana@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,45970,Babajide Wole-Ajao,babajidewoleajao@gmail.com,babajidewoleajao@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14749,Babakura  Muktar,babakuramuktar@gmail.com,babakuramuktar@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,39977,Babakura Abba,abbababakuramuhammad@gmail.com,abbababakuramuhammad@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,39977,Babakura Abba,abbababakuramuhammad@gmail.com,abbababakuramuhammad@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,55513,Bakiru Idris,bakiruidris2026@gmail.com,bakiruidris2026@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,59204,Barakat Adebisi,adebisibarakat2018@gmail.com,adebisibarakat2018@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,50471,Bashar Ibrahim,basharibrahimbuzuri@gmail.com,basharibrahimbuzuri@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14960,Bashar Muhammad,basheermsani3@gmail.com,basheermsani3@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,14960,Bashar Muhammad,basheermsani3@gmail.com,basheermsani3@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,18647,Bashir  Imam,bashirimam19@gmail.com,bashirimam19@gmail.com,,5.0,10,,50.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,35588,Bashir Abubakar,bashmuhammad08@gmail.com,bashmuhammad08@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,39767,Bashir Madi,bashiramadi1998@gmail.com,bashiramadi1998@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4328,Bashir Mohammed,tuk2bash@gmail.com,tuk2bash@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,20538,Bashira Jibrilla,bashirajibrilla3@gmail.com,bashirajibrilla3@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,20538,Bashira Jibrilla,bashirajibrilla3@gmail.com,bashirajibrilla3@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9621,Basir Ibrahim,bashiribrahimreme@gmail.com,bashiribrahimreme@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,64531,Benjamin  Yohanna,nimcmeta001bauchi@gmail.com,nimcmeta001bauchi@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,3738,Benjamin Irimiya,benjaminirimiya6@gmail.com,benjaminirimiya6@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,19467,Bilkisu  Dahiru,fareehad01@gmail.com,fareehad01@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,19467,Bilkisu  Dahiru,fareehad01@gmail.com,fareehad01@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10882,Bilkisu  Isa,billyqueen821@gmail.com,billyqueen821@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,12591,Bilkisu  Izge,bilkisuabubakar513@gmail.com,bilkisuabubakar513@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,15618,Bilkisu Ahmad,bilkisumuhammad57@gmail.com,bilkisumuhammad57@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,11691,Bilkisu Karamba,abdullahiidris69@gmail.com,abdullahiidris69@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,11691,Bilkisu Karamba,abdullahiidris69@gmail.com,abdullahiidris69@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14133,Bitrus  Waziri,wazirizhen@gmail.com,wazirizhen@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,39465,Blessing  Bibi,blessingbibi5@gmail.com,blessingbibi5@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,2316,Blessing  Clement,blessingclementintl@gmail.com,blessingclementintl@gmail.com,,,10,,,False,Not Attempted
@@ -252,12 +265,13 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7739,Bolarinwa  Adeyemi,bolarinwavincenta@gmail.com,bolarinwavincenta@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,25804,Boluwatife Adefolakan,mistybbb17@gmail.com,mistybbb17@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,21733,Boluwatife Olaleye,boludan99@gmail.com,boludan99@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,2904,Buhari  Inuwa,buhariinuwa38@gmail.com,buhariinuwa38@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,2904,Buhari  Inuwa,buhariinuwa38@gmail.com,buhariinuwa38@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,50692,Buhari Garba,buharigarba333@gmail.com,buharigarba333@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,16167,Bunye Bernard,bernardbunye@gmail.com,bernardbunye@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,55428,Chiamaka Nwamara,decencynwamara@gmail.com,decencynwamara@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,38884,Chiamaka Uyanna,chiamakauyanna@gmail.com,chiamakauyanna@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,23151,Chibuzor  Okafor,okaforchibuzor307@gmail.com,okaforchibuzor307@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,48661,Chidimma Ndulue,chidimmamary55@gmail.com,chidimmamary55@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,46733,Chidinma Amaechi,chidinmameche69@gmail.com,chidinmameche69@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3162,Chidinma Nwodo,mmaadabby@gmail.com,mmaadabby@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,37264,Chidinma Ugwu,misshills16@gmail.com,misshills16@gmail.com,,,10,,,False,Not Attempted
@@ -265,6 +279,7 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10557,Chinecherem  Azi,theresaazi14@gmail.com,theresaazi14@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,57001,Chinedu  Onyebueke,johnboscochinedu3@gmail.com,johnboscochinedu3@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,41752,Chinemeremma  Innocent,innocentchineme6@gmail.com,innocentchineme6@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,7069,Chinenye Omeke,nenyeomeke38@gmail.com,nenyeomeke38@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,17583,Chinonso Sunday,chinonsosunday3@gmail.com,chinonsosunday3@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,49099,Chinweoke Osuji,osujichinweoke@gmail.com,osujichinweoke@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14243,Chioma  Ogbonna,chiomaogbonna220@gmail.com,chiomaogbonna220@gmail.com,,,10,,,False,Not Attempted
@@ -278,6 +293,7 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9414,Cyril Chigozie,cyrilfredrick34@gmail.com,cyrilfredrick34@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,50057,Dahiru  Dakasku,dahiruyusufdakasku71@gmail.com,dahiruyusufdakasku71@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4631,Dahiru  Hassan,dhtata10@gmail.com,dhtata10@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,46164,Dalti  Amako,daltiamako57@gmail.com,daltiamako57@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,55288,Damilola Oluseye,oluseyedamireb2018@gmail.com,oluseyedamireb2018@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,13560,Daniel  Faith,akulleyfaith@gmail.com,akulleyfaith@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,32110,Daniel Daje,danielmosesdaje@gmail.com,danielmosesdaje@gmail.com,,,10,,,False,Not Attempted
@@ -293,7 +309,7 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,31806,Deborah  David,debcydave@gmail.com,debcydave@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,29106,Deborah  Isaac,debby4impact2017@gmail.com,debby4impact2017@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,28574,Deborah  Opawoye,deborahayomide05@gmail.com,deborahayomide05@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,44809,Deborah  Sarki,deborahsarkim@gmail.com,deborahsarkim@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,44809,Deborah  Sarki,deborahsarkim@gmail.com,deborahsarkim@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,59372,Diana Donald,dianadonald649@gmail.com,dianadonald649@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,11583,Dibi Limso,dibijennifer@gmail.com,dibijennifer@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,33246,Dominion  Ibrahim,godwindominion01@gmail.com,godwindominion01@gmail.com,,,10,,,False,Not Attempted
@@ -305,6 +321,7 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,29073,Ebimobowei Miekoromo,ebimiens2@gmail.com,ebimiens2@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,35154,Edidiong  Akpan,akpan.edidiong.official@gmail.com,akpan.edidiong.official@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,49542,Ekenedirichukwu  Ekeocha,ekene.ekeocha@gmail.com,ekene.ekeocha@gmail.com,,6.0,10,,60.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,41602,Elam Alhamdu,elamzysumalkya@gmail.com,elamzysumalkya@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4128,Elhannan Kulochang,ekulochang@gmail.com,ekulochang@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9255,Elihu Lule,elihuylule@gmail.com,elihuylule@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,40972,Elisha  Danladi,edanladigoje@gmail.com,edanladigoje@gmail.com,,7.0,10,,70.0,True,Passed
@@ -313,9 +330,9 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,15896,Elizabeth Adedokun,adedokunelizabeth79@gmail.com,adedokunelizabeth79@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,11781,Emmanuel  Isaac,isaacemmanuel294@gmail.com,isaacemmanuel294@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,492,Emmanuel  Joel,emmanuel.ag.joel@gmail.com,emmanuel.ag.joel@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,37861,Emmanuel  Matthew,emma.matthew242@gmail.com,emma.matthew242@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,37861,Emmanuel  Matthew,emma.matthew242@gmail.com,emma.matthew242@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3591,Emmanuel  Tuktur,rimamsanatizenum@gmail.com,rimamsanatizenum@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5197,Emmanuel Andemah,andemahemmanuel@gmail.com,andemahemmanuel@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5197,Emmanuel Andemah,andemahemmanuel@gmail.com,andemahemmanuel@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,27730,Emmanuel Chinda,emmanuelchinda7@gmail.com,emmanuelchinda7@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,36141,Emmanuel Nicodemus,emmanuelxp6@gmail.com,emmanuelxp6@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,14525,Emo Sanda,jibrinemo@gmail.com,jibrinemo@gmail.com,,9.0,10,,90.0,True,Passed
@@ -329,6 +346,7 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,44290,Ezra Woods,woodsezra42@gmail.com,woodsezra42@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,46721,Fahad Mohammed,fahadjuwonmohammed@gmail.com,fahadjuwonmohammed@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1571,Faith  Sunday,sundayfaithagbu@gmail.com,sundayfaithagbu@gmail.com,,8.0,10,,80.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4163,Faith Chukwuanu,chukwuanufaith7@gmail.com,chukwuanufaith7@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,47551,Faith Ighotegwolor,faithighotegwolor@gmail.com,faithighotegwolor@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,58759,Faith Wanmi,wanmifaith2026@yopmail.com,wanmifaith2026@yopmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,15047,Falmata Gambo,falmatayusufgambo@gmail.com,falmatayusufgambo@gmail.com,,3.0,10,,30.0,True,Failed
@@ -338,7 +356,7 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7846,Farida Muhammad Lawal,faridaruwansanyi2000@gmail.com,faridaruwansanyi2000@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,4340,Farouq  Garko,farouqdanladigarko@gmail.com,farouqdanladigarko@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,48696,Fatai  Omokanye,owolabiomokanye@gmail.com,owolabiomokanye@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,15148,Fati  Lamba,fatiwazumtulamba@gmail.com,fatiwazumtulamba@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,15148,Fati  Lamba,fatiwazumtulamba@gmail.com,fatiwazumtulamba@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13832,Fatima  Abubakar,fabubakar940@gmail.com,fabubakar940@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,4778,Fatima  Dalwa,fatimadalwa@gmail.com,fatimadalwa@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,50200,Fatima  Gambo,fatimaumargambo442@gmail.com,fatimaumargambo442@gmail.com,,,10,,,False,Not Attempted
@@ -347,20 +365,21 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,20091,Fatima  Ibrahim,fatimausmanibrahim001@gmail.com,fatimausmanibrahim001@gmail.com,,3.0,10,,30.0,True,Failed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,13172,Fatima  Kaumi,fatimababakaumi@gmail.com,fatimababakaumi@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,33074,Fatima  Marte,fatimamarte202@gmail.com,fatimamarte202@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,17199,Fatima  Muhammad,fatimaalimuhammad283@gmail.com,fatimaalimuhammad283@gmail.com,,9.0,10,,90.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,17199,Fatima  Muhammad,fatimaalimuhammad283@gmail.com,fatimaalimuhammad283@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,38170,Fatima  Musa,danganafatie@gmail.com,danganafatie@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14081,Fatima  Usman,fatimaadamuusman626@gmail.com,fatimaadamuusman626@gmail.com,,8.0,10,,80.0,True,Passed
-28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,11405,Fatima  Zakarai,fatimayahayazakarai5@gmail.com,fatimayahayazakarai5@gmail.com,,9.0,10,,90.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,11405,Fatima  Zakarai,fatimayahayazakarai5@gmail.com,fatimayahayazakarai5@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9007,Fatima Dauda,fatimaadauda@gmail.com,fatimaadauda@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,2408,Fatima Izge,fd3724436@gmail.com,fd3724436@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12510,Fatima Mohammed,mohammedammi019@gmail.com,mohammedammi019@gmail.com,,7.0,10,,70.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,42644,Fatima Muhammed,abfateehabeeb77@gmail.com,abfateehabeeb77@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,42644,Fatima Muhammed,abfateehabeeb77@gmail.com,abfateehabeeb77@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,12609,Fatima Sanda,alisandafatima@gmail.com,alisandafatima@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4905,Fatimah Abubakar,xaarahabubakar@gmail.com,xaarahabubakar@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,15020,Felix  Tizhe,felixlinus89@gmail.com,felixlinus89@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,41075,Festus Fimba,fimbafestus@gmail.com,fimbafestus@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,53805,Fiddausi Ahmad,fiddausiahmad2024@gmail.com,fiddausiahmad2024@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,5999,Fose Jonathan,fosejonathan@gmail.com,fosejonathan@gmail.com,,6.0,10,,60.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,15095,Francis  Zatung,wilsonfranciszatung@gmail.com,wilsonfranciszatung@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,20139,Franklin  Dirioha,fdirioha1@gmail.com,fdirioha1@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3717,Fure  Samuel,furesamuel60@gmail.com,furesamuel60@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13351,Furera  Hussaini,khausarmadaki960@gmail.com,khausarmadaki960@gmail.com,,10.0,10,,100.0,True,Passed
@@ -380,8 +399,8 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4188,Gospel  Isirimah,gospelisirimah@gmail.com,gospelisirimah@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,1219,Grace  Emmanuel,graceemmanuel7744@gmail.com,graceemmanuel7744@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,44303,Grace  Sani,gracesani07@gmail.com,gracesani07@gmail.com,,6.0,10,,60.0,True,Passed
-28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,49977,Grace Christopher,graceeayuba22@gmail.com,graceeayuba22@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,37164,Grace Sule,graciousgracie076@gmail.com,graciousgracie076@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,49977,Grace Christopher,graceeayuba22@gmail.com,graceeayuba22@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,37164,Grace Sule,graciousgracie076@gmail.com,graciousgracie076@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13884,Habib Hadiza,hadizahabib2020@gmail.com,hadizahabib2020@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,45726,Habib Idris,eedrishabib@gmail.com,eedrishabib@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,2621,Habiba Abdullahi,habibasaniaa@gmail.com,habibasaniaa@gmail.com,,,10,,,False,Not Attempted
@@ -393,8 +412,9 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,40842,Hadiza Ibrahim,hadizaibrahimumar1999@gmail.com,hadizaibrahimumar1999@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,13146,Hadiza Yaga,hadizayaga@gmail.com,hadizayaga@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,40483,Hafsat  Idris,hafseey01@gmail.com,hafseey01@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,9763,Hafsat  Modibbo,hafsatadamumodibbo47@gmail.com,hafsatadamumodibbo47@gmail.com,,8.0,10,,80.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9763,Hafsat  Modibbo,hafsatadamumodibbo47@gmail.com,hafsatadamumodibbo47@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7203,Hafsat  Muhammad,hafsatoumuhammad20@gmail.com,hafsatoumuhammad20@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,899,Hafsat Abdullahi,hafsatballah22@gmail.com,hafsatballah22@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,16120,Hajara  Usman,hajarabaffausmangeidam@gmail.com,hajarabaffausmangeidam@gmail.com,,5.0,10,,50.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,35844,Hakimat  Audu,hakimamurtala@gmail.com,hakimamurtala@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,8912,Halima  Hussain,halimahussaini670@gmail.com,halimahussaini670@gmail.com,,6.0,10,,60.0,True,Passed
@@ -403,18 +423,21 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,21259,Halimat  Abdulkabir,abdulkabirhalimat11@gmail.com,abdulkabirhalimat11@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,15165,Halimat Lawal,lawalhalimatola@gmail.com,lawalhalimatola@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13499,Halliru  Isah,halliruisah355@gmail.com,halliruisah355@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,50917,Hamira Silas,hamirasilas40@gmail.com,hamirasilas40@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,40921,Hamidu  Usman,abdulhamidusman13@gmail.com,abdulhamidusman13@gmail.com,,9.0,10,,90.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,50917,Hamira Silas,hamirasilas40@gmail.com,hamirasilas40@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,41765,Hamza Hussaini,hussainihamza444@gmail.com,hussainihamza444@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5322,Hannah  Kalejaiye,yemijaiye2109@gmail.com,yemijaiye2109@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,29882,Hannah Hassan,hassanhannah17@gmail.com,hassanhannah17@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10548,Hapsat  Muhammad,muhammadhapsat@gmail.com,muhammadhapsat@gmail.com,,7.0,10,,70.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4360,Haruna Galadima,gerlecxy@gmail.com,gerlecxy@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,35218,Haruna Ibrahim,haruj44000@gmail.com,haruj44000@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,15644,Haruna Murtala,murtalaharunazh@gmail.com,murtalaharunazh@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13851,Haruna Musa,elharoonmoosa@gmail.com,elharoonmoosa@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,198,Hashimu  Abdullahi,hashimuabdullahibaida@gmail.com,hashimuabdullahibaida@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,46169,Hashiru Musa,hashirumusa2026njfp@gmail.com,hashirumusa2026njfp@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,6450,Hassan  Abdullahi,hassanuabdullahi10@gmail.com,hassanuabdullahi10@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,46169,Hashiru Musa,hashirumusa2026njfp@gmail.com,hashirumusa2026njfp@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,6450,Hassan  Abdullahi,hassanuabdullahi10@gmail.com,hassanuabdullahi10@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,40435,Hassan  Abubakar,hassanabubakar0001@gmail.com,hassanabubakar0001@gmail.com,,8.0,10,,80.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,2954,Hassan  Egigogo,egigogo1031@gmail.com,egigogo1031@gmail.com,,7.0,10,,70.0,True,Passed
+28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,2954,Hassan  Egigogo,egigogo1031@gmail.com,egigogo1031@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5752,Hassan  Sani,hassansani131@gmail.com,hassansani131@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10537,Hassana  Aliyu,hassanabayeroaliyu@gmail.com,hassanabayeroaliyu@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,31973,Hassana  Bello,hassanahbelloh@gmail.com,hassanahbelloh@gmail.com,,,10,,,False,Not Attempted
@@ -430,10 +453,10 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1178,Hauwa Usman,yahyahauwa7@gmail.com,yahyahauwa7@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,17053,Hauwa Yunusa,hauwayunusa59@gmail.com,hauwayunusa59@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13980,Hauwa'U  Musa,musah5483@gmail.com,musah5483@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,52566,Hauwau  Salihu,hauwausalihu0494@gmail.com,hauwausalihu0494@gmail.com,,8.0,10,,80.0,True,Passed
+28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,52566,Hauwau  Salihu,hauwausalihu0494@gmail.com,hauwausalihu0494@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,43990,Hauwau Hussaini,hauwauhussainiusman@gmail.com,hauwauhussainiusman@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,33223,Helen  Kwari,hammahelen1030@gmail.com,hammahelen1030@gmail.com,,9.0,10,,90.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,5667,Henry  Pius,henrypius91@gmail.com,henrypius91@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5667,Henry  Pius,henrypius91@gmail.com,henrypius91@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10049,Hilary  Ugwu,hilaryugwu360@gmail.com,hilaryugwu360@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,22175,Homachi Agbagwa,homachiagbagwa@gmail.com,homachiagbagwa@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9185,Honour  Karimu,honoukarimu17@gmail.com,honoukarimu17@gmail.com,,7.0,10,,70.0,True,Passed
@@ -443,16 +466,17 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,27179,Hussaina  Garba,hussainatasiu004@gmail.com,hussainatasiu004@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,32719,Husseni Chinda,shallapaya@gmail.com,shallapaya@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,54175,Ibrahim  Abdullahi,talk2ibabig25@gmail.com,talk2ibabig25@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,44702,Ibrahim  Abdullahi,ibabdullahi67950@gmail.com,ibabdullahi67950@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,44702,Ibrahim  Abdullahi,ibabdullahi67950@gmail.com,ibabdullahi67950@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10930,Ibrahim  Abubakar,binuthman244@gmail.com,binuthman244@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,55235,Ibrahim  Abubakar,abubakaribro009@gmail.com,abubakaribro009@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13929,Ibrahim  Ahmed,ibrahimusmanahmed38@gmail.com,ibrahimusmanahmed38@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,24939,Ibrahim  Dahiru,dahiruibrahim130@gmail.com,dahiruibrahim130@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,53691,Ibrahim  Ahmed,ibrahimusmanyarima360@gmail.com,ibrahimusmanyarima360@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,24939,Ibrahim  Dahiru,dahiruibrahim130@gmail.com,dahiruibrahim130@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,25314,Ibrahim  Isah,isahibrahim468@gmail.com,isahibrahim468@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,13225,Ibrahim  Kaka,ibkakamisau@gmail.com,ibkakamisau@gmail.com,,5.0,10,,50.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4723,Ibrahim  Malami,ibrahimmalami212@gmail.com,ibrahimmalami212@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,19993,Ibrahim  Muhammad,immaigoro@gmail.com,immaigoro@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3810,Ibrahim  Muhammad,ibrahimalhajimuhammad2016@gmail.com,ibrahimalhajimuhammad2016@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,19993,Ibrahim  Muhammad,immaigoro@gmail.com,immaigoro@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,19946,Ibrahim  Omame,isascoibrahim@gmail.com,isascoibrahim@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,16009,Ibrahim  Shehu,ibrahimshehuibrahim281@gmail.com,ibrahimshehuibrahim281@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,36599,Ibrahim  Waziri,ibrahimamsheay@gmail.com,ibrahimamsheay@gmail.com,,,10,,,False,Not Attempted
@@ -469,44 +493,50 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3741,Idris  Abubakar,abubakaridrisgidi@gmail.com,abubakaridrisgidi@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4529,Idris Musa,idrismusahamza@gmail.com,idrismusahamza@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,61155,Idris Umar,mushewarji@gmail.com,mushewarji@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,12716,Idriss Halilu,tigaye2015@gmail.com,tigaye2015@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,21838,Ifesinachi  Ochiagha,ifesinachismart@gmail.com,ifesinachismart@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,52529,Ifeyinwa Ughaelu,ifypreshughaelu@gmail.com,ifypreshughaelu@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,65068,Ikechukwu Nwoke,ikechukwueric03@gmail.com,ikechukwueric03@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,22569,Iliya Tikikus,iliyatikikus@gmail.com,iliyatikikus@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,2391,Inusa Gurai,yunusagurai@gmail.com,yunusagurai@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,2391,Inusa Gurai,yunusagurai@gmail.com,yunusagurai@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,22613,Iorwuese  Achia,achiajeremiah@gmail.com,achiajeremiah@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,35277,Irene  Okeke,irenechinaza94@gmail.com,irenechinaza94@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1213,Isaac  Tumba,isaactumba6@gmail.com,isaactumba6@gmail.com,,7.0,10,,70.0,True,Passed
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,2114,Isaac Timothy,withtim76@gmail.com,withtim76@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,2114,Isaac Timothy,withtim76@gmail.com,withtim76@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3243,Isah  Ibrahim,isahsocial25@gmail.com,isahsocial25@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14758,Isah Shehu,isahshehu346@gmail.com,isahshehu346@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,15191,Ishaku  Garba,imohdgarba@gmail.com,imohdgarba@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,22837,Ishaku  Pius,kaigama401@gmail.com,kaigama401@gmail.com,,8.0,10,,80.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,15608,Ishaq Zakari,ishaqzakarikakasmall18@gmail.com,ishaqzakarikakasmall18@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,4686,Ishaqa Sadiq,ishaq.sadiq.10@gmail.com,ishaq.sadiq.10@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,15608,Ishaq Zakari,ishaqzakarikakasmall18@gmail.com,ishaqzakarikakasmall18@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4686,Ishaqa Sadiq,ishaq.sadiq.10@gmail.com,ishaq.sadiq.10@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,28617,Islamiyah  Abdulfatai,islamiyahayobami811@gmail.com,islamiyahayobami811@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,46385,Ismail  Abubakar,ismailabubakarsaid05@gmail.com,ismailabubakarsaid05@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,10549,Ismail  Adam,iadam766@yahoo.com,iadam766@yahoo.com,,5.0,10,,50.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1190,Ismail  Idris,ismailabdullahi189@gmail.com,ismailabdullahi189@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,14803,Ismail  Ikaka,ismailikaka5@gmail.com,ismailikaka5@gmail.com,,0.0,10,,0.0,True,Failed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13564,Ismail  Shuaibu,ismaellar00@gmail.com,ismaellar00@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,36674,Ismail Abdulraheem,ismailabdulraheem271@gmail.com,ismailabdulraheem271@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,41686,Ismail Alhassan,ilajos790@gmail.com,ilajos790@gmail.com,,5.0,10,,50.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,33463,Ismail Hassan,sirdikko8@gmail.com,sirdikko8@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,48540,Ismail Musa,ismaildanchuwamusa@gmail.com,ismaildanchuwamusa@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,14767,Ismail Salihu,ismailjimbersalihu@gmail.com,ismailjimbersalihu@gmail.com,,9.0,10,,90.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,49747,Isyaku Aliyu,aliyuisyaku1032@gmail.com,aliyuisyaku1032@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,40656,Itunu Obateru,iobateru@gmail.com,iobateru@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,17915,Ja'Afar  Abdullahi,ahmadd33dat@gmail.com,ahmadd33dat@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,17915,Ja'Afar  Abdullahi,ahmadd33dat@gmail.com,ahmadd33dat@gmail.com,,5.0,10,,50.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,35502,Jaafar Bala,jaafarb.marafa@gmail.com,jaafarb.marafa@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13434,Jacob  Yakubu,yakubujacob7@gmail.com,yakubujacob7@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,56809,Jacob Vihiior,jacobtavervihiior2026@yopmail.com,jacobtavervihiior2026@yopmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,6537,Jamal Saleem,bakarekolawole010@gmail.com,bakarekolawole010@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,47206,Jamilatu  Husseini,husseinijamilatu@gmail.com,husseinijamilatu@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,47206,Jamilatu  Husseini,husseinijamilatu@gmail.com,husseinijamilatu@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5371,Jamilu  Hamza,jameelojameelo@gmail.com,jameelojameelo@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,4414,Jamilu Ibrahim,jameelibrahim20@gmail.com,jameelibrahim20@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,8032,Jamilu Idris,idrisjamilu6565@gmail.com,idrisjamilu6565@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,16532,Jane Ogbu,ogbujane4@gmail.com,ogbujane4@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10340,Jared  Pinpin,jaredbariya@gmail.com,jaredbariya@gmail.com,,7.0,10,,70.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,12886,Jared Johnson,jareddalatujohnson@gmail.com,jareddalatujohnson@gmail.com,,9.0,10,,90.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12886,Jared Johnson,jareddalatujohnson@gmail.com,jareddalatujohnson@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10835,Jasini Mamman,mammanjasini4@gmail.com,mammanjasini4@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,28130,Jatau Jatau,harrymiketemy@gmail.com,harrymiketemy@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5816,Jemimah Bakut,chtsunday@gmail.com,chtsunday@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,34176,Jennifer  Sunday,jennifergodiya84@gmail.com,jennifergodiya84@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,1085,Jerry Luka,lukajerrykyankun@gmail.com,lukajerrykyankun@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,33823,Jessica  Philemon,jessicaphilemon2016@gmail.com,jessicaphilemon2016@gmail.com,,6.0,10,,60.0,True,Passed
@@ -515,7 +545,7 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,26151,Joan Ebohon,joanebohon2@gmail.com,joanebohon2@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10530,Job Jonathan,jobjonathan254@gmail.com,jobjonathan254@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,40514,Joel  Tabitha,dijajoel7@gmail.com,dijajoel7@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,37995,Joel Sunday,joelingosunday@yahoo.com,joelingosunday@yahoo.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,37995,Joel Sunday,joelingosunday@yahoo.com,joelingosunday@yahoo.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3835,John Omale,omalejohnoche71@gmail.com,omalejohnoche71@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,9399,Johnson  Samuel,johnsonsamuel0013@gmail.com,johnsonsamuel0013@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,6022,Jonah  Yenan,jonahbella19@gmail.com,jonahbella19@gmail.com,,,10,,,False,Not Attempted
@@ -525,24 +555,26 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,28821,Josephine Martins,josephinemartins003@gmail.com,josephinemartins003@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,16250,Joshua  Timothy,zirawakalijoshua@gmail.com,zirawakalijoshua@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,44399,Joshua Olowolafe,olowolafejoshua01@gmail.com,olowolafejoshua01@gmail.com,,7.0,10,,70.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,31241,Jothan Usman,ujothan@gmail.com,ujothan@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,31241,Jothan Usman,ujothan@gmail.com,ujothan@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9233,Joy Adeyemi,ajoy2367@gmail.com,ajoy2367@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3593,Joy Edeh,joyoyowo@gmail.com,joyoyowo@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,10213,Joy Joshua,joyjoshua244@gmail.com,joyjoshua244@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,27680,Joy Ogwuche,joyogwuche68@gmail.com,joyogwuche68@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,51932,Joyce  Sunday,joycesunday.450@gmail.com,joycesunday.450@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,18238,Joyce Adeyemi,joyceadeyemi2000@gmail.com,joyceadeyemi2000@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,41378,Judith Williams,judithjw50@gmail.com,judithjw50@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,48178,Juliet Okechukwu,amyjuliet1229@gmail.com,amyjuliet1229@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,10087,Jummai Ibrahim,jummaibaffaibrahim01@gmail.com,jummaibaffaibrahim01@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5253,Jumoke  Afolabi,ajumoke691@gmail.com,ajumoke691@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,44850,Justice  Johnny,justicejohnny2017@gmail.com,justicejohnny2017@gmail.com,,0.0,10,,0.0,True,Failed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,44850,Justice  Johnny,justicejohnny2017@gmail.com,justicejohnny2017@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,41666,Justina  Bitrus,justinabitrus2017@gmail.com,justinabitrus2017@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,41118,Kabir Ibrahim,kabirjkm3@gmail.com,kabirjkm3@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,53568,Kabirat Fasasi,fasasikabirat@gmail.com,fasasikabirat@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,11884,Kabiru  Abdulaziz,kabiruabdulaziz369@gmail.com,kabiruabdulaziz369@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,38526,Kabiru  Ibrahim,kabiruibrahim419@gmail.com,kabiruibrahim419@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,3366,Kabiru  Tijjani,ktbsabeerkhan@gmail.com,ktbsabeerkhan@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10586,Kabiru Abdulsalam,abdulsalamkabiru6@gmail.com,abdulsalamkabiru6@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4488,Kabiru Lawan,kabirulawan3458@gmail.com,kabirulawan3458@gmail.com,,7.0,10,,70.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,4488,Kabiru Lawan,kabirulawan3458@gmail.com,kabirulawan3458@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,57094,Kabiru Usman,usmankabiru0800@gmail.com,usmankabiru0800@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,46576,Kala Bello,mohammedkalabello@gmail.com,mohammedkalabello@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,46236,Kalid Kobi,khalidnasirkobi@gmail.com,khalidnasirkobi@gmail.com,,9.0,10,,90.0,True,Passed
@@ -567,14 +599,14 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,3527,Khalid  Musa,khalidmusa46@outlook.com,khalidmusa46@outlook.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,2419,Khalifa  Sali,salikhalifa836@gmail.com,salikhalifa836@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,8957,Khalifa Babeh,khaliphambabeh@gmail.com,khaliphambabeh@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5553,Kingsley Chinaeleobi,kinest08126465485@gmail.com,kinest08126465485@gmail.com,,9.0,10,,90.0,True,Passed
+28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,5553,Kingsley Chinaeleobi,kinest08126465485@gmail.com,kinest08126465485@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1660,Kwopnan  Yari,yarikwopnan@gmail.com,yarikwopnan@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9960,Kyari Kolo,kyarimohammedkolo@gmail.com,kyarimohammedkolo@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,24284,Lami James,lamijames2018@gmail.com,lamijames2018@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5598,Latifa Shehu,shehulatifatmagaji01@gmail.com,shehulatifatmagaji01@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,33033,Lawal Abiodun,lawalkafayat1612@gmail.com,lawalkafayat1612@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,44476,Lawan Samaila,engrsebraheem@gmail.com,engrsebraheem@gmail.com,,7.0,10,,70.0,True,Passed
-28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,50695,Lawan Yusuf,rukayyalawanyusuf1097@gmail.com,rukayyalawanyusuf1097@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,50695,Lawan Yusuf,rukayyalawanyusuf1097@gmail.com,rukayyalawanyusuf1097@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,42974,Lenchang Nyambart,nyambartl@gmail.com,nyambartl@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,37287,Lily Collins,lilyscottcollins@gmail.com,lilyscottcollins@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,57422,Linda  Amos,lindaamoskim@gmail.com,lindaamoskim@gmail.com,,,10,,,False,Not Attempted
@@ -584,12 +616,13 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,11695,Lovina  Lensley,lovinalensley6@gmail.com,lovinalensley6@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,23587,Lucy Imaji,ojonelucy2014@gmail.com,ojonelucy2014@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,34571,Luka Mengi,lukamercymengi12@gmail.com,lukamercymengi12@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,47254,Lukman  Bindowo,lukmanbindowo@gmail.com,lukmanbindowo@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,23257,Lukman Adinoyi,deiza3069@gmail.com,deiza3069@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,44435,Lukman Dahiru,lookmandahiru@gmail.com,lookmandahiru@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,21063,Lydia  Salmamza,lydiasalmamza1@gmail.com,lydiasalmamza1@gmail.com,,4.0,10,,40.0,True,Failed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,59379,Lynda Akinbowa,akinbowalyndaopeoluwa@gmail.com,akinbowalyndaopeoluwa@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,55960,Mabel Obanya,mabelobanya98@gmail.com,mabelobanya98@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,41369,Mahmud Aminu,mahmudaminu10@gmail.com,mahmudaminu10@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,41369,Mahmud Aminu,mahmudaminu10@gmail.com,mahmudaminu10@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,33037,Mahmud Haruna,harunamahmood17@gmail.com,harunamahmood17@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,46635,Maigar Bukar,brokerysf96@gmail.com,brokerysf96@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,50869,Maimuna Ajiya,maimunaabali05@gmail.com,maimunaabali05@gmail.com,,,10,,,False,Not Attempted
@@ -602,14 +635,16 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,14771,Mansur Muhammed,mansurmuhammed71@gmail.com,mansurmuhammed71@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,52361,Mariam Musa,maryamini05@gmail.com,maryamini05@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,55954,Mark  Moses,momark803@gmail.com,momark803@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1131,Markus Waja,markusmatheuwaja@gmail.com,markusmatheuwaja@gmail.com,,8.0,10,,80.0,True,Passed
+28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,1131,Markus Waja,markusmatheuwaja@gmail.com,markusmatheuwaja@gmail.com,,8.0,10,,80.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,36872,Markus Yakubu,ymarkus353@gmail.com,ymarkus353@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,41040,Marliyya Baba,mardybaba6@gmail.com,mardybaba6@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,43733,Mary  Ogundeyi,marytemitope180@gmail.com,marytemitope180@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,19436,Mary Joseph,josephmary123jos@gmail.com,josephmary123jos@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,24563,Maryam  Mohammed,maryamtahiru001@gmail.com,maryamtahiru001@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,46256,Maryam  Yisau,yisaumaryam75@gmail.com,yisaumaryam75@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,7021,Maryam Ahmad,maryamalee100@gmail.com,maryamalee100@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,28846,Maryam Isah,ashirmaryam2@gmail.com,ashirmaryam2@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,34050,Maryam Muhammad,maryamhabibtie001@gmail.com,maryamhabibtie001@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,34050,Maryam Muhammad,maryamhabibtie001@gmail.com,maryamhabibtie001@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10190,Maryam Sani,balasanimaryam@gmail.com,balasanimaryam@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,48987,Mathias  Galwa,zaragalwa@gmail.com,zaragalwa@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,6677,Mathias Mbafong,mathiasmba85@gmail.com,mathiasmba85@gmail.com,,,10,,,False,Not Attempted
@@ -626,59 +661,64 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10460,Miduku  Emmanuel,midukuemmanuel@gmail.com,midukuemmanuel@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,22785,Modu Lawan,aishatumodulawan19@gmail.com,aishatumodulawan19@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,58701,Mohammad  Jibrilla,mohammedjibrilla54@gmail.com,mohammedjibrilla54@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,47531,Mohammed  Abdullahi,mohammedabdullahix@gmail.com,mohammedabdullahix@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,47531,Mohammed  Abdullahi,mohammedabdullahix@gmail.com,mohammedabdullahix@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,53804,Mohammed  Babagana,muhfat40@gmail.com,muhfat40@gmail.com,,3.0,10,,30.0,True,Failed
-28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,1086,Mohammed  Babi,mababi2001@gmail.com,mababi2001@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,1086,Mohammed  Babi,mababi2001@gmail.com,mababi2001@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4813,Mohammed  Bunu,mohammedbunu090@gmail.com,mohammedbunu090@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10118,Mohammed  Ibrahim,mbibrahim700@gmail.com,mbibrahim700@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4452,Mohammed  Malami,bgmalami34@gmail.com,bgmalami34@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1859,Mohammed  Umara,alaminumara111@gmail.com,alaminumara111@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,1859,Mohammed  Umara,alaminumara111@gmail.com,alaminumara111@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,45301,Mohammed Abdullahi,magaringabo002@gmail.com,magaringabo002@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,49918,Mohammed Abdulmumini,mohdabdullmumini819@gmail.com,mohdabdullmumini819@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5660,Mohammed Amao,rilwanmohammed34@gmail.com,rilwanmohammed34@gmail.com,,2.0,10,,20.0,True,Failed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,15432,Mohammed Bomai,bomoi60@gmail.com,bomoi60@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1191,Mohammed Idris,shuaibumohammedidris@gmail.com,shuaibumohammedidris@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,41513,Mohammed Inusa,mohammedauwalinusa@gmail.com,mohammedauwalinusa@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,54345,Mohammed Ismail,mohammedauduismail2@gmail.com,mohammedauduismail2@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5164,Mohammed Kawu,mkawu000@gmail.com,mkawu000@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,12859,Monday Yakubu,mondayonespirit1000@gmail.com,mondayonespirit1000@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14964,Monjkugha Amuga,monjee.benjamin@gmail.com,monjee.benjamin@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,14964,Monjkugha Amuga,monjee.benjamin@gmail.com,monjee.benjamin@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,61856,Moses Ojeyinka,lawalm805@gmail.com,lawalm805@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,18132,Mu'Azu Isa,binjabalweb3@gmail.com,binjabalweb3@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9807,Mubarak  Ahmed,ahmedmubarak5002@gmail.com,ahmedmubarak5002@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4611,Mubarak  Hashiru,mubarakhashiru22@gmail.com,mubarakhashiru22@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,3872,Mubarak  Hassan,kaigammamubarak90@gmail.com,kaigammamubarak90@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,13701,Mubarak  Kabiru,kabirumubarak129@gmail.com,kabirumubarak129@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,23957,Mubarak Sani,mubarakmuhammad818@gmail.com,mubarakmuhammad818@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14481,Mubaraq Ajadi,mubarakayodeji19@gmail.com,mubarakayodeji19@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,40464,Mudansir Babayo,mudansirbabayo20@gmail.com,mudansirbabayo20@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,11490,Muhammad  Adam,muhammadbabayo99@gmail.com,muhammadbabayo99@gmail.com,,9.0,10,,90.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3246,Muhammad  Aliyu,maliyumalami6537@gmail.com,maliyumalami6537@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,15065,Muhammad  Aliyu,muhammadaliyu25505255@gmail.com,muhammadaliyu25505255@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5111,Muhammad  Bello,muhammadshafiubello22@gmail.com,muhammadshafiubello22@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,53829,Muhammad  Chiromari,alaminkukuri@gmail.com,alaminkukuri@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,361,Muhammad  Gokaru,muhdusmangokaru@gmail.com,muhdusmangokaru@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,361,Muhammad  Gokaru,muhdusmangokaru@gmail.com,muhdusmangokaru@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,47795,Muhammad  Hamisu,muhammadhamisu28@gmail.com,muhammadhamisu28@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,3300,Muhammad  Hassan,usmanmuhammad1043@gmail.com,usmanmuhammad1043@gmail.com,,8.0,10,,80.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3300,Muhammad  Hassan,usmanmuhammad1043@gmail.com,usmanmuhammad1043@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,57420,Muhammad  Ibrahim,ibrahimmuhammad1164@gmail.com,ibrahimmuhammad1164@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7163,Muhammad  Ibrahim,muhammadlagga@gmail.com,muhammadlagga@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,55152,Muhammad  Ishaq,maheerishaq1@gmail.com,maheerishaq1@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,982,Muhammad  Musa,muhammadmusa0516@gmail.com,muhammadmusa0516@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,2638,Muhammad  Musa,muhammadmusaaleeyu@gmail.com,muhammadmusaaleeyu@gmail.com,,7.0,10,,70.0,True,Passed
+28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,2638,Muhammad  Musa,muhammadmusaaleeyu@gmail.com,muhammadmusaaleeyu@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12876,Muhammad  Musa,muhammadnazifmusa8@gmail.com,muhammadnazifmusa8@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,1553,Muhammad  Salawudeen,msalawu7@gmail.com,msalawu7@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,184,Muhammad  Umar,bellomuhammadumar1996@gmail.com,bellomuhammadumar1996@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,34457,Muhammad  Usman,muhammadsabiuusman1@gmail.com,muhammadsabiuusman1@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,42514,Muhammad  Yusuf,muhammadibraheemyusuf1@gmail.com,muhammadibraheemyusuf1@gmail.com,,7.0,10,,70.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,43014,Muhammad Adamu,maabdullahi123@gmail.com,maabdullahi123@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3217,Muhammad Habib,danalysthabib@gmail.com,danalysthabib@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,38,Muhammad Ibrahim,khairuddeen2023@gmail.com,khairuddeen2023@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,38,Muhammad Ibrahim,khairuddeen2023@gmail.com,khairuddeen2023@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,6959,Muhammad Imran,imuhammadimran25@gmail.com,imuhammadimran25@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1681,Muhammad Ismail,muhammadee500@gmail.com,muhammadee500@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,8470,Muhammad Labbaika,mlabbaika120@gmail.com,mlabbaika120@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14660,Muhammad Mahdi,muhammadmahdi0233@gmail.com,muhammadmahdi0233@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1901,Muhammad Shehu,muhammadishehu1@gmail.com,muhammadishehu1@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9810,Muhammad Tajudeen,muhammadtaju73@gmail.com,muhammadtaju73@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13584,Muhammad Zakariya,zakariyaabu01@gmail.com,zakariyaabu01@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,13584,Muhammad Zakariya,zakariyaabu01@gmail.com,zakariyaabu01@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,49865,Muhammadu Usman,muhammaduusman070@gmail.com,muhammaduusman070@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,40717,Muhammed  Hamma,muhammedhamma3522@gmail.com,muhammedhamma3522@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14435,Muhammed  Saidu,mohdshema8089@gmail.com,mohdshema8089@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,12862,Muhammed Saleh,msaleh113285@gmail.com,msaleh113285@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,2500,Mujaheed Sani,sanimujaheed20@gmail.com,sanimujaheed20@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12548,Mujittapha Rabiu,mujattapharabiu@gmail.com,mujattapharabiu@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4374,Mukhtar  Umar,mukhtarningi57@gmail.com,mukhtarningi57@gmail.com,,7.0,10,,70.0,True,Passed
@@ -686,21 +726,23 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,37544,Mus'Ab Abdullahi,msbmaidara@gmail.com,msbmaidara@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,12904,Musa  Adamu,musajadamu@gmail.com,musajadamu@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10273,Musa  Garba,mgmusa4@gmail.com,mgmusa4@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,13724,Musa  James,vallamusa7@gmail.com,vallamusa7@gmail.com,,9.0,10,,90.0,True,Passed
+28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,13724,Musa  James,vallamusa7@gmail.com,vallamusa7@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,56167,Musa Abdulkadir,abdulkadirmuaa@gmail.com,abdulkadirmuaa@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14135,Musa Abubakar,musaabubakar335@gmail.com,musaabubakar335@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,14135,Musa Abubakar,musaabubakar335@gmail.com,musaabubakar335@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,49461,Musa Abubakar,museenmusa@gmail.com,museenmusa@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,3876,Musa Alhaji,musaalhjidauda@yahoo.com,musaalhjidauda@yahoo.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13121,Musa Ali,musamali2248@gmail.com,musamali2248@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,48047,Musa Bussa,musadavid31@gmail.com,musadavid31@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,10760,Musa Jibrin,mashcent1@gmail.com,mashcent1@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3088,Musa Rabiu,musazg5@gmail.com,musazg5@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1834,Mustapha  Muhammad,engineermustaphakabir@gmail.com,engineermustaphakabir@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5542,Mustapha  Yakubu,mustaphayakubdoma2@gmail.com,mustaphayakubdoma2@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,46863,Mustapha Isma'Il,mustaphaismail0801@gmail.com,mustaphaismail0801@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,15449,Mustapha Lawan,mustaphalawan108@gmail.com,mustaphalawan108@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,43023,Mustapha Musa,mustaphamusadass1@gmail.com,mustaphamusadass1@gmail.com,,4.0,10,,40.0,True,Failed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,33990,Mustapha Musa,mustaphaibrahimmusa463@gmail.com,mustaphaibrahimmusa463@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,8406,Mustapha Waziri,mustaphawaziri100@gmail.com,mustaphawaziri100@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,57325,Mustapha Yakubu,zeemuste@gmail.com,zeemuste@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,8035,Mustapha Yusuf,mustyyusufmuhammad66@gmail.com,mustyyusufmuhammad66@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,47229,Na'Ima  Hashim,starzyrapxy@gmail.com,starzyrapxy@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,23356,Naimot Amzat,naimotamzat@gmail.com,naimotamzat@gmail.com,,,10,,,False,Not Attempted
@@ -713,7 +755,7 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,64590,Nasiru Badamasi,abadamasimale@gmail.com,abadamasimale@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,168,Nasiru Ishaq,ishaqnasirutijjani@gmail.com,ishaqnasirutijjani@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,24219,Nathaniel Atatobe,atatobenathan@gmail.com,atatobenathan@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13917,Naziru Mohammed  Sule,nazirumohammedsule@gmail.com,nazirumohammedsule@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,13917,Naziru Mohammed  Sule,nazirumohammedsule@gmail.com,nazirumohammedsule@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,41708,Naziru Muhammad,nazyobaka@gmail.com,nazyobaka@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,31337,Ndam  Tanko,ndam204@gmail.com,ndam204@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,46717,Ngockbon  Noah,ngmillain@gmail.com,ngmillain@gmail.com,,,10,,,False,Not Attempted
@@ -727,14 +769,15 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,42637,Nuhu Lawan,nmlawan553@gmail.com,nmlawan553@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,2753,Nura Musa,nuramusa220@gmail.com,nuramusa220@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,33942,Nura Wakili,nurawakili11@gmail.com,nurawakili11@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,22070,Nura Yakubu,nurayjabaka@gmail.com,nurayjabaka@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,51994,Nuru Idris,nuruidrissalihu@gmail.com,nuruidrissalihu@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,22070,Nura Yakubu,nurayjabaka@gmail.com,nurayjabaka@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,51994,Nuru Idris,nuruidrissalihu@gmail.com,nuruidrissalihu@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1789,Nuruddeen  Muhammad,nuruddeenmg19@gmail.com,nuruddeenmg19@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,37148,Nwevo  Ogbonnaya,mathewogbonnaya18@gmail.com,mathewogbonnaya18@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10349,Nwofoke  Uchenna,jonahnwofoke@gmail.com,jonahnwofoke@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,24970,Nzube Friday,fridaynzube2017@gmail.com,fridaynzube2017@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9481,Obadiah  Asheazi,obadiahsandra6@gmail.com,obadiahsandra6@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,6534,Oforbuike Edeh,oforbuike04@gmail.com,oforbuike04@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,8962,Ogbebo  Felicia,feliciabo70@gmail.com,feliciabo70@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,20791,Oghenemaro Uzogeme,uzogemeoghenemaro@gmail.com,uzogemeoghenemaro@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,43825,Oladapo  Adebisi,adebisioladapo4@gmail.com,adebisioladapo4@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,34404,Oladipo Shola,oladiposhola111@gmail.com,oladiposhola111@gmail.com,,,10,,,False,Not Attempted
@@ -760,10 +803,11 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,9339,Patience Emmanuel,emmanuelpatience2000@gmail.com,emmanuelpatience2000@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,44102,Paul Ephraim,ephraimpaul@hotmail.com,ephraimpaul@hotmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,45050,Paulina Ayuba,paulinaayuba5959@yopmail.com,paulinaayuba5959@yopmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,7307,Peace Titus,peacetitus1010@gmail.com,peacetitus1010@gmail.com,,6.0,10,,60.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,7307,Peace Titus,peacetitus1010@gmail.com,peacetitus1010@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,28544,Peter Idoko,peterjesus1499@gmail.com,peterjesus1499@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,2757,Philip Galadima,philipgaladima@gmail.com,philipgaladima@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,42205,Piriaye Tamunotonye,tamunotonyepiriaye@gmail.com,tamunotonyepiriaye@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,54620,Praise Adewole,adewolepraise2019@gmail.com,adewolepraise2019@gmail.com,,9.0,10,,90.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,54620,Praise Adewole,adewolepraise2019@gmail.com,adewolepraise2019@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,58158,Precious  Imonieroh,imonierohprecious@gmail.com,imonierohprecious@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,18401,Precious  Yusuf,preciousyusuf199@gmail.com,preciousyusuf199@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,17942,Princewill Chijioke,princed.pc@gmail.com,princed.pc@gmail.com,,,10,,,False,Not Attempted
@@ -789,12 +833,15 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,43337,Ruth  Musa,ruthmabe9@gmail.com,ruthmabe9@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,9874,Sadiq  Adamu,sadiqadamu0006@gmail.com,sadiqadamu0006@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,3432,Sadiq  Ibrahim,sadiiqsarah@gmail.com,sadiiqsarah@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7220,Sadiq Adam,maimalari099@gmail.com,maimalari099@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7220,Sadiq Adam,maimalari099@gmail.com,maimalari099@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10344,Sadiq Baba Shehu,sadiqbabashehu0165@gmail.com,sadiqbabashehu0165@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,6750,Sadiq Gabi,gabiabubakarsadiq@gmail.com,gabiabubakarsadiq@gmail.com,,7.0,10,,70.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1691,Sadiq Ibrahim,sadiqibrahimhamza@gmail.com,sadiqibrahimhamza@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,40582,Sadiq Mohammed,sadeeqmbadara1@gmail.com,sadeeqmbadara1@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,53193,Sadiq Muhammad,imranaisahmuhammad1@gmail.com,imranaisahmuhammad1@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14969,Sadiq Muhammad,itsalhajikarami@gmail.com,itsalhajikarami@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12415,Sadiq Yakubu,sadiqyakubuabubakar1@gmail.com,sadiqyakubuabubakar1@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9910,Sadiq Yusuf,sadiqdanhausaa@gmail.com,sadiqdanhausaa@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,37569,Sadiya  Abdullahi,sadiyamusa275@gmail.com,sadiyamusa275@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,13859,Sadiya  Suleiman,halimasuleimanajiya@gmail.com,halimasuleimanajiya@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,19906,Safiya  Yahaya,safiyayahayasaba2020@gmail.com,safiyayahayasaba2020@gmail.com,,,10,,,False,Not Attempted
@@ -807,9 +854,10 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,32945,Salim Jumba,ajsalim522@gmail.com,ajsalim522@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,26134,Salisu Ahmad,salisusahmad95@gmail.com,salisusahmad95@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,35269,Samaila  Durumbu,ismailmarafa03@gmail.com,ismailmarafa03@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,2822,Samira  Musa,samiramusayakubu081@gmail.com,samiramusayakubu081@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,2822,Samira  Musa,samiramusayakubu081@gmail.com,samiramusayakubu081@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,40303,Samson  Jahiya,jahiyasamson01@gmail.com,jahiyasamson01@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,2520,Samuel  Kumadi,kumadisamuel0@gmail.com,kumadisamuel0@gmail.com,,8.0,10,,80.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,41897,Samuel  Ngbede,ngbedesamuel50@gmail.com,ngbedesamuel50@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,22750,Samuel Arikpo,ariksammy02@gmail.com,ariksammy02@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,43966,Samuel Michael,sammikeddie233@gmail.com,sammikeddie233@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,64039,Sani Abdulrauf,bcomputerbusinessenterprises@gmail.com,bcomputerbusinessenterprises@gmail.com,,,10,,,False,Not Attempted
@@ -827,28 +875,31 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,60262,Shafa'Atu  Shehu,shafaatushehu906@gmail.com,shafaatushehu906@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,58816,Shafiu Halilu,merhmood0002@gmail.com,merhmood0002@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,3711,Shaheed  Abdu,shaheedauwalabdu10@gmail.com,shaheedauwalabdu10@gmail.com,,8.0,10,,80.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1842,Shaibu  Israel,shaibuufedojoisrael@gmail.com,shaibuufedojoisrael@gmail.com,,8.0,10,,80.0,True,Passed
+28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,1842,Shaibu  Israel,shaibuufedojoisrael@gmail.com,shaibuufedojoisrael@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,29432,Shakirat Lawal,shakiratlawal88@gmail.com,shakiratlawal88@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9402,Shamil Salisu,shamilsalisu@gmail.com,shamilsalisu@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,35924,Shamkar Suleiman,shamkarsuleiman@gmail.com,shamkarsuleiman@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,1781,Shamsiya  Masu,shamsiyaahmadmasu@gmail.com,shamsiyaahmadmasu@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,33007,Shamsu  Yusuf,shamsuyusuf3955@gmail.com,shamsuyusuf3955@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,33007,Shamsu  Yusuf,shamsuyusuf3955@gmail.com,shamsuyusuf3955@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,1630,Shamsuddeen  Idris,shamsuddeen2021@gmail.com,shamsuddeen2021@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,30479,Shamsuddeen Babangida,shamsuddenbabangidaa6122@gmail.com,shamsuddenbabangidaa6122@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,2810,Shamsuddin Malami,shamsuddinmalamibaba@gmail.com,shamsuddinmalamibaba@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5972,Sharifat  Musa,shareefat4real@gmail.com,shareefat4real@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,36140,Shedrack  Okeke,okekeshedrack19@gmail.com,okekeshedrack19@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1530,Shehu Abdulkadir,abdulkadirshehu69800@gmail.com,abdulkadirshehu69800@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,10903,Shuaib  Maryam,shuaibmaryamoludayo@gmail.com,shuaibmaryamoludayo@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,36140,Shedrack  Okeke,okekeshedrack19@gmail.com,okekeshedrack19@gmail.com,,9.0,10,,90.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,1530,Shehu Abdulkadir,abdulkadirshehu69800@gmail.com,abdulkadirshehu69800@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,49599,Sheriff Muhammad,sheriffmh04@gmail.com,sheriffmh04@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,10903,Shuaib  Maryam,shuaibmaryamoludayo@gmail.com,shuaibmaryamoludayo@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,42919,Shuaibu  Alhassan,alhassanshuaibubabheza@gmail.com,alhassanshuaibubabheza@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,8899,Shuaibu  Bappa,bappashuaibu@yahoo.com,bappashuaibu@yahoo.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,34146,Shuaibu  Muhammad,shuaibabubakar607@gmail.com,shuaibabubakar607@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,54564,Shuaibu  Musa,musashuaibu825@gmail.com,musashuaibu825@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,7374,Shuaibu Muhammad,shuaibumuhammad07@gmail.com,shuaibumuhammad07@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,16412,Sikiru Adesunhan,adesunhan1@gmail.com,adesunhan1@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,57282,Similoluwa Adewusi,adewusisimiloluwa@gmail.com,adewusisimiloluwa@gmail.com,,9.0,10,,90.0,True,Passed
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,11690,Simon  Abednego,abednegosimonbalami@gmail.com,abednegosimonbalami@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,11690,Simon  Abednego,abednegosimonbalami@gmail.com,abednegosimonbalami@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,47351,Simon  Iyorkaa,iyorkaasimon@gmail.com,iyorkaasimon@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,56441,Sodiq Akinwale,akinwalesodiqoladiran@gmail.com,akinwalesodiqoladiran@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,56791,Sodiq Ramadan,ramadanjr777@gmail.com,ramadanjr777@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,56791,Sodiq Ramadan,ramadanjr777@gmail.com,ramadanjr777@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,27340,Solomon  Ameh,solomonameh998@gmail.com,solomonameh998@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,20811,Solomon  John,solomonjohn728@yahoo.com,solomonjohn728@yahoo.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10526,Solomon  Shamaki,solomonshamaki123@gmail.com,solomonshamaki123@gmail.com,,,10,,,False,Not Attempted
@@ -856,20 +907,21 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,41652,Somto Odilora,odilorasommie@gmail.com,odilorasommie@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,17030,Sonia  Phineas,soniaphineas@gmail.com,soniaphineas@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,48420,Sotechi Amadi,sotechiamadi3@gmail.com,sotechiamadi3@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,44843,Stephanie  Nuhu,nuhustephanie@gmail.com,nuhustephanie@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,44843,Stephanie  Nuhu,nuhustephanie@gmail.com,nuhustephanie@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,18609,Stephen  Bako,bakostephenanyiseh12@gmail.com,bakostephenanyiseh12@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,887,Stephen  Iliya,stepheniliyachima1@gmail.com,stepheniliyachima1@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,44815,Stephen  Iliya,iliyastephenlaro@gmail.com,iliyastephenlaro@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,59282,Suchong  Yohanna,treasuresuchie@gmail.com,treasuresuchie@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,17785,Sulaiman Ibraheem,sirsuki77@gmail.com,sirsuki77@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,55877,Sulaiman Jibrin,talk2jsu2020@gmail.com,talk2jsu2020@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,55877,Sulaiman Jibrin,talk2jsu2020@gmail.com,talk2jsu2020@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,10821,Suleiman  Hamisu,elhamisuleiman@gmail.com,elhamisuleiman@gmail.com,,6.0,10,,60.0,True,Passed
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,6706,Suleiman  Muhammad,suleimanmuhammadsabo@gmail.com,suleimanmuhammadsabo@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,6706,Suleiman  Muhammad,suleimanmuhammadsabo@gmail.com,suleimanmuhammadsabo@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,36313,Suleiman  Musa,suleimanlawanmusa447@gmail.com,suleimanlawanmusa447@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,35950,Suleiman  Saleh,mairiga910@gmail.com,mairiga910@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,53872,Suleiman Muhammad,ibrahimsulaiman0800@gmail.com,ibrahimsulaiman0800@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,59316,Sumayya Bilyaminu,sbilyaminuothman@gmail.com,sbilyaminuothman@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9661,Sunday  Osogu,edehs207@gmail.com,edehs207@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10571,Sunday  Patrick,patricksunday4517@gmail.com,patricksunday4517@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7178,Sunday Bala,sundaybala122@gmail.com,sundaybala122@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,45200,Sunday Daniel,sunnexdaniel109@gmail.com,sunnexdaniel109@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,10842,Surayya Muhammad,surayyamk001@gmail.com,surayyamk001@gmail.com,,8.0,10,,80.0,True,Passed
@@ -882,12 +934,13 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14463,Telekulli  Mahlons,telekulimahlons@gmail.com,telekulimahlons@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,30021,Temitayo  Ibrahim,ibrahimtemmygabriel@gmail.com,ibrahimtemmygabriel@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,1785,Temitope Olabode,olabodetemitope80@gmail.com,olabodetemitope80@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,41931,Terfa Oragbe,terfaoragbe9@gmail.com,terfaoragbe9@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7755,Tijjani Ibrahim,tijjaniibrahim1998@gmail.com,tijjaniibrahim1998@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,45636,Timothy  Akilahyel,timsonbt@gmail.com,timsonbt@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,50433,Timothy  Jima,moyammajima70@gmail.com,moyammajima70@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7070,Timothy  Saleh,salehtimothy978@gmail.com,salehtimothy978@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,8833,Timothy Adamu,adamuharami01@gmail.com,adamuharami01@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,53639,Tiseh David,davidtiseh2000@gmail.com,davidtiseh2000@gmail.com,,9.0,10,,90.0,True,Passed
+28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,53639,Tiseh David,davidtiseh2000@gmail.com,davidtiseh2000@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1151,Tizhe Daniel,danielsharon680@gmail.com,danielsharon680@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,40513,Tochi Schull,admin@schulltech.com,schulltech,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7486,Tochukwu Ijogu,henryijogu@gmail.com,henryijogu@gmail.com,,,10,,,False,Not Attempted
@@ -898,7 +951,8 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,62767,Uchenna Didigwu,evaristusuchenna21@gmail.com,evaristusuchenna21@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,8218,Umaima Muhammad,umaimaibraheem25@gmail.com,umaimaibraheem25@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,458,Umar  Abubakar,umarabubakaryahaya01@gmail.com,umarabubakaryahaya01@gmail.com,,7.0,10,,70.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,35749,Umar  Modu,umaralhajimodu@gmail.com,umaralhajimodu@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,5834,Umar  Dalha,dalhahrs22@gmail.com,dalhahrs22@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,35749,Umar  Modu,umaralhajimodu@gmail.com,umaralhajimodu@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,8576,Umar  Samaila,umarsamaila110@gmail.com,umarsamaila110@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,42729,Umar  Suleiman,usuleiman884@gmail.com,usuleiman884@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12555,Umar Abdullahi,umarabdullahi6196@gmail.com,umarabdullahi6196@gmail.com,,,10,,,False,Not Attempted
@@ -908,10 +962,12 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,57531,Umar Bashir,umarbashir333@gmail.com,umarbashir333@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,10640,Umar Bulama,umarbulama736246@gmail.com,umarbulama736246@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,27398,Umar Katune,fbk442@gmail.com,fbk442@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,63473,Umar Shehu,suambursa7445@gmail.com,suambursa7445@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,11870,Umar Sulaiman,umarskumo@gmail.com,umarskumo@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,36929,Ummi  Abdul,ummeey62@gmail.com,ummeey62@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,15315,Usaini  Baaba,usainiinuwabaaba@gmail.com,usainiinuwabaaba@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,25894,Usman  Ahmad,idrisusmanahmad963@gmail.com,idrisusmanahmad963@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,209,Usman  Hamza,husmangarba@gmail.com,husmangarba@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,15347,Usman  Hamza,usmanhamza2336@gmail.com,usmanhamza2336@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,43037,Usman  Hayatu,usmanusune3@gmail.com,usmanusune3@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,47432,Usman  Ishiyaku,usmanishiyaku4u@gmail.com,usmanishiyaku4u@gmail.com,,,10,,,False,Not Attempted
@@ -922,7 +978,7 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,52005,Usman Isah,isahusmanisah21@gmail.com,isahusmanisah21@gmail.com,,7.0,10,,70.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,9764,Usman Mala,ubabaganamala@gmail.com,ubabaganamala@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4688,Usman Misa,misabinkola@gmail.com,misabinkola@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,4843,Usman Suleiman,usmansgadzama@gmail.com,usmansgadzama@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,4843,Usman Suleiman,usmansgadzama@gmail.com,usmansgadzama@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,16275,Usman Umar,usmanumarumar@gmail.com,usmanumarumar@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,43978,Uwaisu  Zakari,zakariyauwaisu1042@gmail.com,zakariyauwaisu1042@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,53726,Uzaifa  Abdullahi,abdullahiuzaifa90@gmail.com,abdullahiuzaifa90@gmail.com,,,10,,,False,Not Attempted
@@ -930,6 +986,7 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,61855,Uzairu Abdullahi,abdullahiuzairu175@gmail.com,abdullahiuzairu175@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,13541,Vaisa Stephen,vaisadaniel7@gmail.com,vaisadaniel7@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,34193,Victor  Tanko,victortanko5@gmail.com,victortanko5@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,1723,Victor Prosper,prospervictor15@gmail.com,prospervictor15@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1245,Victoria  Ogundele,ogundelev39@gmail.com,ogundelev39@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,25309,Victory  James,jamesvictory82537@gmail.com,jamesvictory82537@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,50198,Virshichong Mbishida,virshichong@gmail.com,virshichong@gmail.com,,7.0,10,,70.0,True,Passed
@@ -943,8 +1000,9 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,48109,Yagana Lawan,yaganatijiani@gmail.com,yaganatijiani@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,45742,Yahaya  Audu,yahayaaudugamari01@yahoo.com,yahayaaudugamari01@yahoo.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,24545,Yahaya  Magaji,ymmagaji12@gmail.com,ymmagaji12@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,23379,Yahaya  Samaila,samailayahaya18@gmail.com,samailayahaya18@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,39645,Yahaya Yahaya,yahaya3097@gmail.com,yahaya3097@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,23379,Yahaya  Samaila,samailayahaya18@gmail.com,samailayahaya18@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,49027,Yahaya  Yakubu,yahayayakubuajuji1998@gmail.com,yahayayakubuajuji1998@gmail.com,,,10,,,False,Not Attempted
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,39645,Yahaya Yahaya,yahaya3097@gmail.com,yahaya3097@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,1082,Yahya Musa,danyayimusa@gmail.com,danyayimusa@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7417,Yakubu  Ibrahim,ibrahimyakubuadamu18@gmail.com,ibrahimyakubuadamu18@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,36376,Yakubu  Isah,aiyakub4real@gmail.com,aiyakub4real@gmail.com,,,10,,,False,Not Attempted
@@ -957,18 +1015,18 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,27900,Yazid Habib,royalsambo91@gmail.com,royalsambo91@gmail.com,,2.0,10,,20.0,True,Failed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7572,Yelma Julius,yelmajulius4@gmail.com,yelmajulius4@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,46304,Yerima Izge,yerimalihb@gmail.com,yerimalihb@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,216,Product Design (Ui/Ux) Quiz,16257,Yohanna  Benjamin,njfpjubilee417@gmail.com,njfpjubilee417@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,3250,Yohanna Linus,yohannalinus2@gmail.com,yohannalinus2@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,16257,Yohanna  Benjamin,njfpjubilee417@gmail.com,njfpjubilee417@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,3250,Yohanna Linus,yohannalinus2@gmail.com,yohannalinus2@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,47477,Yushau  Ahmed,batureyushau@gmail.com,batureyushau@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,43442,Yushehu Muhammad,yusheikzy@gmail.com,yusheikzy@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,23206,Yusra Suleiman,ysmusa63@gmail.com,ysmusa63@gmail.com,,,10,,,False,Not Attempted
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,18990,Yusuf  Ismail,yusufismail082@gmail.com,yusufismail082@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,18990,Yusuf  Ismail,yusufismail082@gmail.com,yusufismail082@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,40289,Yusuf  Koto,yusufmusakoto@gmail.com,yusufmusakoto@gmail.com,,9.0,10,,90.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,34413,Yusuf  Lawandi,yusufnagoma@gmail.com,yusufnagoma@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,7898,Yusuf  Mujaheed,mujaheedyusuf90@gmail.com,mujaheedyusuf90@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,45658,Yusuf  Samaila,samailabogoro@gmail.com,samailabogoro@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,45795,Yusuf  Tanko,tysaboyusuf@gmail.com,tysaboyusuf@gmail.com,,9.0,10,,90.0,True,Passed
-28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,2815,Yusuf Adamu,yusufussunnah94@gmail.com,yusufussunnah94@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,2815,Yusuf Adamu,yusufussunnah94@gmail.com,yusufussunnah94@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,37606,Yusuf Ande,andeyusuf2017@gmail.com,andeyusuf2017@gmail.com,,6.0,10,,60.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,2079,Yusuf Badamasi,yusufbadamasi84@gmail.com,yusufbadamasi84@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,57057,Yusuf Bello,yusufbello813@gmail.com,yusufbello813@gmail.com,,,10,,,False,Not Attempted
@@ -976,7 +1034,7 @@ course_id,course_name,quiz_id,quiz_name,user_id,fullname,email,username,suspende
 28,Baseline Digital Skills Assessments,215,Software Engineering Quiz,5913,Zaharaddeen Aminu,deneeaminu@gmail.com,deneeaminu@gmail.com,,8.0,10,,80.0,True,Passed
 28,Baseline Digital Skills Assessments,217,Digital Marketing Quiz,14182,Zahida  Hassan,zahidahassan17@gmail.com,zahidahassan17@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,16801,Zainab  Ibrahim,zainabib502@gmail.com,zainabib502@gmail.com,,10.0,10,,100.0,True,Passed
-28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,14972,Zainab  Ladan,zeeladan50@gmail.com,zeeladan50@gmail.com,,10.0,10,,100.0,True,Passed
+28,Baseline Digital Skills Assessments,219,Cyber Security Quiz,14972,Zainab  Ladan,zeeladan50@gmail.com,zeeladan50@gmail.com,,10.0,10,,100.0,True,Passed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,12557,Zainab Abdulmumin,zainababdulmumin277@gmail.com,zainababdulmumin277@gmail.com,,,10,,,False,Not Attempted
 28,Baseline Digital Skills Assessments,218,Data Analytics Quiz,55153,Zainab Amkpa,amkpazainab@gmail.com,amkpazainab@gmail.com,,3.0,10,,30.0,True,Failed
 28,Baseline Digital Skills Assessments,214,Ai Fundamentals Quiz,8729,Zainab Dawule,kyarizainab@gmail.com,kyarizainab@gmail.com,,,10,,,False,Not Attempted
